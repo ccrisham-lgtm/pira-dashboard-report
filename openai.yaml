@@ -1,0 +1,4 @@
+interface:
+  display_name: "PIRA Marketing Digest"
+  short_description: "Weekly Marketing Desk insights from Slack."
+  default_prompt: "Use $pira-marketing-digest to read the latest PIRA weekly refresh in #pira-dashboard-report and produce the default Marketing Desk digest."
