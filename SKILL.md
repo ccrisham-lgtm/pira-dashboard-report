@@ -45,6 +45,17 @@ If one deliverable cannot be created because a required connector, permission, o
 - Use workflow or source notes only to explain data caveats, corrections, missing reports, proxy-derived figures, or scope assumptions.
 - If no relevant Slack content is found, say that clearly and ask whether to broaden the date range.
 
+## Monthly Reporting Window
+
+Default to a monthly report. Use these rules:
+
+- If the user names a month, use that full calendar month.
+- If the user gives a date range, use the provided range and label it clearly.
+- If the user does not specify a month or range, use the previous completed calendar month.
+- Use exact dates in filenames, document subtitles, workbook subtitles, and the Outlook subject/body.
+- Search Slack for posts within the monthly window and include the latest corrected metric posts for that month.
+- When multiple posts report the same metric in the same month, use the latest correction or latest duplicate unless the source says otherwise.
+ 
 ## Deliverables
 
 Always produce all three deliverables unless the user explicitly asks for only one. Treat this as a completion requirement, not a preference:
